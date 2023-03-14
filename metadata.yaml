@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '1218'
     url: http://www.gutenberg.org/2009/agents/1218
     wikipedia: https://en.wikipedia.org/wiki/Laurence_Housman
+covers:
+- cover_type: archival
+  image_path: 70189-h/images/cover.jpg
 creator:
   author:
     agent_name: Shelley, Percy Bysshe
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1529
     wikipedia: https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70189#The-sensitive-plant
 gutenberg_issued: '2023-03-02'
 identifiers:
   gutenberg: '70189'
